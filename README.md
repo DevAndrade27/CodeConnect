@@ -62,7 +62,8 @@ CodeConnect/
 ├── .gitignore
 └── package.json       # (gerado por padrão ao iniciar projeto com npm)
 📷 Preview
-(Adicione aqui prints ou gifs do funcionamento do sistema, se desejar)
+<img width="1855" height="871" alt="image" src="https://github.com/user-attachments/assets/87a54b86-3b40-4ee7-beac-715ef1d6ce18" />
+
 
 👨‍💻 Autor
 Feito com 💻 por Vinícius Andrade
